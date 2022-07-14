@@ -1,0 +1,54 @@
+#login-parent-div {
+  border: 1px solid rgb(1, 1, 1);
+
+  /* background-image: url("../../assets/sea-edge-79ab30e2.png"); */
+  background-image: url(https://getwallpapers.com/wallpaper/full/6/2/0/1303153-free-black-light-background-wallpaper-1920x1080-for-windows-10.jpg);
+  /* background-image: url("../../assets/4e0f683f152c1e201daacd7e6bf6d9b8.png"); */
+  /* background-image: url("../../assets//1567666.webp"); */
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+}
+
+#login-form {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+
+
+  height: 60vh;
+}
+
+#welcome-header-div {
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+
+  height: 40vh;
+}
+
+#policy-admin-text {
+  font-family: monospace;
+  font-size: 50px;
+
+  margin: 20px;
+
+  font-weight: bold;
+}
+
+.header-div {
+  display: flex;
+  justify-content: center;
+}
+
+#login-form-fields {
+  display: flex;
+  flex-direction: column;
+}

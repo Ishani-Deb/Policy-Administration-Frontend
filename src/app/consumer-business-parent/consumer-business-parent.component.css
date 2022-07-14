@@ -1,0 +1,20 @@
+#consumer-business-parent-div {
+  display: grid;
+
+  grid-template-columns: repeat(2, 1fr);
+
+  border: 1px solid pink;
+
+  height: 100%;
+
+}
+
+.header-div {
+  display: flex;
+  justify-content: center;
+ 
+  /* border: 1px solid orangered; */
+}
+/* body{
+  background-color: lightblue;  
+} */

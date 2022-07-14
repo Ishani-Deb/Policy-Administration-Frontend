@@ -1,0 +1,12 @@
+#business-property-details-search-form {
+  display: flex;
+
+  justify-content: center;
+}
+
+#business-property-details-div {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
